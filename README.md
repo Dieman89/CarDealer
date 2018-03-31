@@ -35,3 +35,15 @@ Carlton wants the program to run on his laptop, which has a new processor, 2GB o
 -	To include programming components for Calculation. Clear, Exit and Reset.
 
 -	To allow only the authorised user have access to the program.
+
+## DATA REQUIREMENT AND DATA TYPES
+
+<p align="center">
+<img src="https://i.gyazo.com/421dca5de1d15327ae6f66dd04732248.png">
+</p>
+
+In this program there are two different data types used. Any data type can be a variable or a constant, whenever the data stored in a variable will not change during the entire process of the program, it is called constant and can be declared as _final_.
+
+**String:**   A data type used when there is no intention in making calculation with the   data stored in it.
+
+**Double:**   A data type used when the data stored can also be decimal.
