@@ -24,14 +24,14 @@ Carlton wants the program to run on his laptop, which has a new processor, 2GB o
  
 ## MAIN OBJECTIVES
 
-i.	To develop a piece of software that has a wonderful user-friendly environment, which will help Mr. Carlton to calculate each job estimate correctly. 
+-	To develop a piece of software that has a wonderful user-friendly environment, which will help Mr. Carlton to calculate each job estimate correctly. 
 
-ii.	To produce an analysed report for each estimate made.
+-	To produce an analysed report for each estimate made.
 
-iii.	To have components that indicate if the buyer wants additional accessories.
+-	To have components that indicate if the buyer wants additional accessories.
 
-iv.	To have a trade-in allowance default to 0.
+-	To have a trade-in allowance default to 0.
 
-v.	To include programming components for Calculation. Clear, Exit and Reset.
+-	To include programming components for Calculation. Clear, Exit and Reset.
 
-vi.	To allow only the authorised user have access to the program.
+-	To allow only the authorised user have access to the program.
